@@ -88,4 +88,7 @@ In such cases, you can either: a) install the relevant modules (Google for more 
 
  ![image](https://github.com/JacksonTQY/ntcluckydraw/assets/97141507/9bc53212-660a-483b-a847-1ab36ddc1696)
 
-4)	If the input file is not a csv file but an Excel file, please save it in a csv format with the 
+4)	If the input file is not a csv file but an Excel file, please save it in a csv format with the name NTC_Participants.csv
+5) The winners will be saved as “Lucky Draw Winners.csv”. Do not open the file when the program is running as this will prevent you from saving the winners into the file.
+6)	Avoid resizing the program window.
+
